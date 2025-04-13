@@ -14,3 +14,4 @@ as desvantagens são que o tempo de resposta acaba sendo mais longo, tem limita�
 E também teve uma introdução ao Microsoft Azure, demonstrando a flexibilidade e possiveis SLA´s que podem ser usados em serviços para computação em nuvem,
 explicando referente a questão do tempo de insisponibilidade para cada processo, que por regra caso venha ter uma indisponibilidade acima da prometida 
 em contrato se foi a própria Azure que determinou aquele percentual você tera o ressarcimento daquele periodo como crédito no Azure.
+Foi ensinado sobre a criação de uma máquina virtual e suas configurações, e após o preenchimento o programa já te da uma referencia como base.
