@@ -1,5 +1,5 @@
 # Resumo-Do-Lab
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
+Este repositório contém o resumo das lições aprendidas durante as aulas de computação em nuvem na DIO
 Nesse curso aprendi sobre o processamento em nuvem, que existem seus tipos como privado, público e hibrido.
 É uma forma de computação que permite que os usuários tenham acesso a recursos de computação de forma remota.
 A nuvem privada é quando a empresa realiza seus serviços com suas máquinas (tem gasto total), já o público é o oposto, realiza o 
